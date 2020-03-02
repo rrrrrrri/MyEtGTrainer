@@ -1,7 +1,6 @@
 #pragma once
 #include "stdafx.h"
 
-
 class Proc
 {
 public:

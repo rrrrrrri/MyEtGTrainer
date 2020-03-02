@@ -147,14 +147,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Locker.cpp" />
     <ClCompile Include="Injector.cpp" />
     <ClCompile Include="mem.cpp" />
     <ClCompile Include="MyHackTool.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="Proc.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Locker.h" />
     <ClInclude Include="Injector.h" />
     <ClInclude Include="mem.h" />
+    <ClInclude Include="Player.h" />
     <ClInclude Include="Proc.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>

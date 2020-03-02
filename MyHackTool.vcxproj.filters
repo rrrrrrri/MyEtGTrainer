@@ -22,6 +22,12 @@
     <Filter Include="Injector">
       <UniqueIdentifier>{18f1a0ce-51c4-43e4-a6df-5602aef8e9dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Locker">
+      <UniqueIdentifier>{bc6625cf-d26b-4cb0-b82f-e199bca084de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{68312553-a400-4362-b48a-2ab4dcb84784}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyHackTool.cpp">
@@ -36,6 +42,12 @@
     <ClCompile Include="Injector.cpp">
       <Filter>Injector</Filter>
     </ClCompile>
+    <ClCompile Include="Locker.cpp">
+      <Filter>Locker</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Proc.h">
@@ -49,6 +61,12 @@
     </ClInclude>
     <ClInclude Include="Injector.h">
       <Filter>Injector</Filter>
+    </ClInclude>
+    <ClInclude Include="Locker.h">
+      <Filter>Locker</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

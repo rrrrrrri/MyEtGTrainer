@@ -1,3 +1,5 @@
-﻿  Injector.cpp
-C:\Users\ASUS\source\repos\MyHackTool\Injector.cpp(12,47): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+﻿  Locker.cpp
+  MyHackTool.cpp
+  Player.cpp
+  正在生成代码...
   MyHackTool.vcxproj -> C:\Users\ASUS\source\repos\MyHackTool\x64\Debug\MyHackTool.exe
